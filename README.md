@@ -1,9 +1,9 @@
 # 6T_SRAM_Layout_Design_and_Verification
 6T SRAM Layout Design and Verification Project
-Overview
+## Overview
 This project involves the design, simulation, and analysis of a CMOS 6-Transistor (6T) Static Random-Access Memory (SRAM) cell using Cadence Virtuoso. The SRAM cell is designed to store a single bit of data efficiently, ensuring high stability and low power consumption.
 
-Software & Tools Used
+## Software & Tools Used
 Cadence Virtuoso (for schematic capture, layout, and simulation)
 Assura (for DRC and LVS verification)
 Analog Design Environment (ADE) (for waveform analysis)
